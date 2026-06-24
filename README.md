@@ -15,6 +15,3 @@ This project classifies images of dogs and cats using Deep Learning.
 - Data Preprocessing
 - Model Training
 - Prediction of Dog and Cat Images
-
-## Author
-Hemant Kumar
